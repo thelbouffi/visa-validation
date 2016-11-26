@@ -14,9 +14,9 @@ var card = {
   cvv: '123'
 };
 var validation = visaCard.validateVisa(card);
-```javascript
+```
 
-`validateVisa()` will return an object like this:
+So `validateVisa()` will return an object like this:
 
 ```javascript
 { card:
