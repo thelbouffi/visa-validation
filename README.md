@@ -34,14 +34,7 @@ var validation = visaCard.validateVisa(card);
 
 ### Methods
 
-You can also use those methods, to get each information of the visa card separately.
-**hasVisaPatterns()**
-**isValidCvv()**
-**isExpired()**
-**isValidExpiryYear()**
-**isValidExpiryMonth()**
-**isValidCardNumber()**
-**luhn()**
+You can also use those methods, to get each information of the visa card separately: **hasVisaPatterns(), isValidCvv(), isExpired(), isValidExpiryYear(), isValidExpiryMonth(), isValidCardNumber(), luhn()
 
 ### Other Credit Card Types
 
