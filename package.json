@@ -1,0 +1,29 @@
+{
+  "name": "visa-validation",
+  "version": "1.0.0",
+  "description": "Visa credit card validator",
+  "main": "lib/visa.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelbouffi/visa-validation.git"
+  },
+  "keywords": [
+    "visa",
+    "credit card"
+  ],
+  "author": "Taha El Bouffi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thelbouffi/visa-validation/issues"
+  },
+  "homepage": "https://github.com/thelbouffi/visa-validation#readme"
+}
